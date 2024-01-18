@@ -1,0 +1,16 @@
+
+This is the README file for the PuTTY MSI installer distribution. If
+you're reading this, you've probably just run our installer and
+installed PuTTY on your system.
+
+What should I do next?
+----------------------
+
+If you want to use PuTTY to connect to other computers, or use PSFTP
+to transfer files, you should just be able to run them from the
+Start menu.
+
+If you want to use the command-line file transfer utility PSCP, you
+will need to run this from a Command Prompt or equivalent, because it
+will not do anything useful without command-line options telling it
+what files to copy to and from where. You can do this by just 
